@@ -1,0 +1,38 @@
+{
+  "homepage_title": "Danieli Corus \u2014 Refractory Testing Laboratory | Industrial Authority",
+  "console_errors": [],
+  "video_present": true,
+  "video_paused": false,
+  "timeline_tabs_count": 6,
+  "stage4_selected": true,
+  "lightbox_opened": true,
+  "lightbox_closed_on_esc": true,
+  "routes": {
+    "/concepts/industrial/about": {
+      "status": 200,
+      "h1": "A Heritage of Metallurgical Authority & "
+    },
+    "/concepts/industrial/capabilities": {
+      "status": 200,
+      "h1": "Rigorous Empirical Testing Across Four D"
+    },
+    "/concepts/industrial/process": {
+      "status": 200,
+      "h1": "Standard Testing Procedure R-01: End-to-"
+    },
+    "/concepts/industrial/equipment": {
+      "status": 200,
+      "h1": "Calibrated Laboratory Equipment & High-T"
+    },
+    "/concepts/industrial/quality": {
+      "status": 200,
+      "h1": "Quality Assurance & International Standa"
+    },
+    "/concepts/industrial/contact": {
+      "status": 200,
+      "h1": "Contact the Refractory Testing Laborator"
+    }
+  },
+  "mobile_menu_open": true,
+  "form_validation_triggered": true
+}
